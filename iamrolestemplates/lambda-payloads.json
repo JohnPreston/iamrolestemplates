@@ -1,0 +1,15 @@
+{
+    "iamrolestemplates": {
+        "lambda": {
+            "Decription": "Something New",
+            "AccountIds": [
+                "012346578912",
+                "123456789120"
+            ],
+            "Options": {
+                "MfaAge": 3600,
+                "UseMfa": true
+            }
+        }
+    }
+}

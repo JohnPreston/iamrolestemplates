@@ -1,0 +1,6 @@
+.application.json
+*~
+*.pyc
+*pycache*
+venv/*
+*dist-info*
